@@ -1,0 +1,123 @@
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 0%;
+}
+.set-width{
+    width: 50%;
+    padding: 3%;
+    
+    
+    
+}
+.set-width img{
+    width: 75%; 
+}
+.set-width-new{
+    width: 50%;
+    padding-left: 5%;
+     
+    
+}
+.set-width-new img{
+    width: 80%;
+    margin-left: 40px;
+    
+}
+.set-margin{
+    margin-top: 100px;
+}
+.border-area{
+    border-left: 5px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+   border-radius: 5%;
+}
+#set-color{
+    color: darkgoldenrod;
+}
+
+h1{
+    font-family: 'Lora', serif;
+    font-size: 60px;
+    margin: 2%;
+    
+}
+.button_background{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(#00bfff,#0080ff);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.mission-visssion-goals{
+    width: 20%;
+    height: 65%;
+    box-shadow: 10px 10px 80px white;
+    border-radius: 10px;
+    
+    padding: 2%;
+    margin-left: 4%;
+    margin-right: 2%;
+    
+}
+.mission-bacground-color{
+    background-color: turquoise;
+}
+.vision-background-color{
+    background-color: rgb(223, 219, 14);
+}
+.goals-background-color{
+    background-color: darkorange;
+}
+
+.mission-visssion-goals img{
+    width: 40%;
+}
+.section-two h1{
+    text-align: center;
+}
+.section-three{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+}
+.section-four{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right bottom;
+}
+.section-five h1{
+    text-align: center;
+}
+.box-model{
+    width: 40%;
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 30%;
+    margin-right: 3%;
+    padding: 2%;
+    border-radius: 10px;
+}
+#text-color{
+    color: crimson;
+}
+
+footer{
+        margin: 0 auto;
+    height: 150px;
+    position: relative;
+        background-color: navy;
+}
+
+footer h2{
+    padding-top: 3%;
+    text-align: center;
+    color: white;
+}
+footer p{
+    
+    text-align: center;
+    color: white;
+}
